@@ -1,0 +1,10 @@
+# saidas de trabalho e caches
+work/
+*.gcode
+*.gcode.3mf
+*.stl
+*.mp3
+*.mp4
+*.log
+__pycache__/
+.venv/
